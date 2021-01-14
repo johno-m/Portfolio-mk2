@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "gsap": "^3.6.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.4.9",
+    "vue2-touch-events": "^3.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
